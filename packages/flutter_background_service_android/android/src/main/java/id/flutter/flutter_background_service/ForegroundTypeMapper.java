@@ -17,6 +17,7 @@ public class ForegroundTypeMapper {
         foregroundTypeMap.put("location", ServiceInfo.FOREGROUND_SERVICE_TYPE_LOCATION);
         foregroundTypeMap.put("mediaPlayback", ServiceInfo.FOREGROUND_SERVICE_TYPE_MEDIA_PLAYBACK);
         foregroundTypeMap.put("mediaProjection", ServiceInfo.FOREGROUND_SERVICE_TYPE_MEDIA_PROJECTION);
+        foregroundTypeMap.put("mediaProcessing", ServiceInfo.FOREGROUND_SERVICE_TYPE_MEDIA_PROCESSING);
         foregroundTypeMap.put("microphone", ServiceInfo.FOREGROUND_SERVICE_TYPE_MICROPHONE);
         foregroundTypeMap.put("phoneCall", ServiceInfo.FOREGROUND_SERVICE_TYPE_PHONE_CALL);
         foregroundTypeMap.put("remoteMessaging", ServiceInfo.FOREGROUND_SERVICE_TYPE_REMOTE_MESSAGING);

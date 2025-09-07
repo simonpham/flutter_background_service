@@ -31,6 +31,7 @@ enum AndroidForegroundType {
   location,
   mediaPlayback,
   mediaProjection,
+  mediaProcessing,
   microphone,
   phoneCall,
   remoteMessaging,
